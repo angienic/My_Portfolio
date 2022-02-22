@@ -8,7 +8,7 @@ Part 1. [Exploring Soy Export Data: How much and where is it going?](https://git
 - Engineered features to quantify and aggregate contributions from different regions and products.
 - Created visualizations with matplotlib and Tableau.
 
-[Deforestation trends 2004-2018] (https://github.com/angienic/My_Portfolio/blob/main/images/Deforestation%20timeseries.jpg)
+![Deforestation trends 2004-2018](https://github.com/angienic/My_Portfolio/blob/main/images/Deforestation%20timeseries.jpg)
 
 Part 2. Deforestion modelling
 
