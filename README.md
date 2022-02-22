@@ -9,7 +9,7 @@ Part 1. [Exploring Soy Export Data: How much and where is it going?](https://git
 - Created visualizations with Matplotlib and Tableau.
 
 ![Deforestation risk trends 2004-2018](/images/Deforestation_risk_sm.jpg)
-![Global exports](https://github.com/angienic/My_Portfolio/blob/main/images/Export_map.jpg)
+![Global exports](/images/Export_map.jpg)
 
 Part 2. Deforestion modelling
 
