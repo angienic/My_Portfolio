@@ -1,4 +1,4 @@
-# Deforestation in supply chains
+# Project 1. Deforestation in supply chains
 
 This piece is part of a Capstone Data Science project I am working on modelling deforestation rates associated with soymeal production in Brazil. I started by scraping deforestation and commodity price data from publicly available sources such as deforestation databases (Trase) and a stock exchage (Nasdaq).
 
