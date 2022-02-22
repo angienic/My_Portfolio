@@ -10,7 +10,7 @@ Part 1. [Exploratory Data Analysis](https://github.com/angienic/My_Portfolio/blo
 
 Part 2. Deforestion modelling
 
-- Optimized linear and random forest regressors using GridSearch CV to reach best models.
+- Optimized linear and random forest regressors using GridSearch CV to  build the best models.
 
 Part 3. Forecasting.
 
