@@ -4,9 +4,9 @@ This piece is part of a Capstone Data Science project I am working on modelling 
 
 Part 1. [Exploring Soy Export Data: How much and where is it going?](https://github.com/angienic/My_Portfolio/blob/main/Cap_EDA_Model_Clean.ipynb)
 
-- Used pandas for exploratory data analysisA, wrangling datasets of > 295K rows. 
-- Engineered features to quantify and aggregate contributions from different regions and products.
-- Created visualizations with matplotlib and Tableau.
+- Used Python Pandas libraries for data wrangling and exploratory analysis of datasets with over 295K rows. 
+- Engineered features to quantify and aggregate contributions from different regions and soy products.
+- Created visualizations with Matplotlib and Tableau.
 
 ![Deforestation risk trends 2004-2018](https://github.com/angienic/My_Portfolio/blob/main/images/Deforestation_risk_sm.jpg)
 ![Global exports](https://github.com/angienic/My_Portfolio/blob/main/images/Export_map.jpg)
