@@ -4,7 +4,7 @@ Tropical deforestation is one of the main challenges thwarting climate change an
 
 This first portfolio piece is part of a project I worked on for a Data science program, modelling deforestation rates associated with soymeal production in Brazil. I first scraped deforestation and commodity price data from publicly available sources such as deforestation databases (Trase) and a stock exchage (Nasdaq) and then completed analysis in three parts:
 
-Part 1. [Exploring Export Data: How much soy is produced and where is it going?](https://github.com/angienic/My_Portfolio/blob/main/Cap_EDA_Model_Clean.ipynb)
+#### 1. [Exploring Export Data: How much soy is produced and where is it going?](https://github.com/angienic/My_Portfolio/blob/main/Cap_EDA_Model_Clean.ipynb)
 
 - Used Python Pandas libraries for data wrangling and exploratory analysis of datasets with over 295K rows of 10-14 years of data. 
 - Engineered features to quantify and aggregate contributions from different regions and soy products.
@@ -22,13 +22,13 @@ Part 1. [Exploring Export Data: How much soy is produced and where is it going?]
 
 What the data showed: With very few exceptions, most countries buy soy from Brazil. After a soy moratorium agreement, some soy production moved to areas previously deforested for cattle ranching, but the largest proportion of soymeal transactions were carried out by producers or buyers that did not subscribe to no-deforestation commitments. Despite the shift from primary to secondary clearings, soy crops continue to drive deforestion. 
 
-Part 2. Deforestion modelling
+#### 2. Modelling deforestation as a function of commodity prices
 
 - Optimized linear and random forest regressors using GridSearch CV to  build robust models.
 
 What the data showed: fluctuations in soymeal prices explained almost 20% of the variance in deforestation risk, illustrating the dynamic nature of incentives for deforestation despite international agreements and policy advances. 
 
-Part 3. Forecasting.
+#### 3. Forecasting deforesttaion rates
 
 - Used Facebook Prophet time series analysis to predict soy meal prices in the short term range.
 
