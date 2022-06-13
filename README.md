@@ -1,8 +1,8 @@
 # Project 1. Deforestation in supply chains
 
-Tropical deforestation is one of the main challenges thwarting climate change and biodiversity conservation efforts worldwide. Thanks to the improved quality and resoultion of satellite imagery available, research organizations are better equipped to monitor land use changes and track their association with economic, political and social changes. The complex deforestaion dynamics in the Brazilian Amazon forest offer a great oportunity to connect different types of data and predict local future deforestation rates.  
+Tropical deforestation is one of the main challenges thwarting climate change and biodiversity conservation efforts worldwide. Thanks to the improved quality and resoultion of satellite imagery available, research organizations are better equipped to monitor land use changes and track their association with economic, political and social changes. Deforestation dynamics in the Brazilian Amazon are complex but offer a great oportunity to connect different types of data and predict local future deforestation rates that could help enforcement agencies anticipate and prioritize areas of action.  
 
-This first portfolio piece as part of a project I worked on for a Data science program, modelling deforestation rates associated with soymeal production in Brazil. I first scraped deforestation and commodity price data from publicly available sources such as deforestation databases (Trase) and a stock exchage (Nasdaq) and then completed analysis in three parts:
+This first portfolio piece is part of a project I worked on for a Data science program, modelling deforestation rates associated with soymeal production in Brazil. I first scraped deforestation and commodity price data from publicly available sources such as deforestation databases (Trase) and a stock exchage (Nasdaq) and then completed analysis in three parts:
 
 Part 1. [Exploring Soy Export Data: How much is porduced and where is it going?](https://github.com/angienic/My_Portfolio/blob/main/Cap_EDA_Model_Clean.ipynb)
 
@@ -16,7 +16,7 @@ Part 1. [Exploring Soy Export Data: How much is porduced and where is it going?]
 
 ![Global exports](/images/Export_map.jpg)
 
-*Brazilian soymeal export destinations. Darker shades indicate higher transaction value (FOB) in USD* 
+*Brazilian soymeal export destinations* 
 
 What the data showed: With very few exceptions, most countries buy soy from Brazil. After a soy moratorium agreement, some soy production moved to areas previously deforested for cattle ranching, but the largest proportion of soymeal transactions were carried out by producers or buyers that did not subscribe to no-deforestation commitments. To this day soy crops continue to play an active role driving deforestion in the Amazon. 
 
