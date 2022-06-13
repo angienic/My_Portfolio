@@ -4,7 +4,7 @@ Tropical deforestation is one of the main challenges thwarting climate change an
 
 This first portfolio piece is part of a project I worked on for a Data science program, modelling deforestation rates associated with soymeal production in Brazil. I first scraped deforestation and commodity price data from publicly available sources such as deforestation databases (Trase) and a stock exchage (Nasdaq) and then completed analysis in three parts:
 
-Part 1. [Exploring Soy Export Data: How much is porduced and where is it going?](https://github.com/angienic/My_Portfolio/blob/main/Cap_EDA_Model_Clean.ipynb)
+Part 1. [Exploring Export Data: How much soy is produced and where is it going?](https://github.com/angienic/My_Portfolio/blob/main/Cap_EDA_Model_Clean.ipynb)
 
 - Used Python Pandas libraries for data wrangling and exploratory analysis of datasets with over 295K rows of 10-14 years of data. 
 - Engineered features to quantify and aggregate contributions from different regions and soy products.
@@ -13,7 +13,6 @@ Part 1. [Exploring Soy Export Data: How much is porduced and where is it going?]
 ![Deforestation risk trends 2004-2018](/images/Deforestation_risk_sm.jpg)
 
 *Brazilian soymeal deforestation risk trends, 2004-2018*
-
 ![Global exports](/images/Export_map.jpg)
 
 *Brazilian soymeal export destinations* 
