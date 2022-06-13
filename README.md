@@ -19,7 +19,7 @@ Part 1. [Exploring Export Data: How much soy is produced and where is it going?]
 |:--:| 
 | *Brazilian soymeal export destinations. Darker shade indicates higher transaction value in USD* |
 
-What the data showed: With very few exceptions, most countries buy soy from Brazil. After a soy moratorium agreement, some soy production moved to areas previously deforested for cattle ranching, but the largest proportion of soymeal transactions were carried out by producers or buyers that did not subscribe to no-deforestation commitments. To this day soy crops continue to play an active role driving deforestion in the Amazon. 
+What the data showed: With very few exceptions, most countries buy soy from Brazil. After a soy moratorium agreement, some soy production moved to areas previously deforested for cattle ranching, but the largest proportion of soymeal transactions were carried out by producers or buyers that did not subscribe to no-deforestation commitments. Despite the shift from primary to secondary clearings, soy crops continue to drive deforestion. 
 
 Part 2. Deforestion modelling
 
