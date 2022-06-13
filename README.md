@@ -10,9 +10,7 @@ Part 1. [Exploring Export Data: How much soy is produced and where is it going?]
 - Engineered features to quantify and aggregate contributions from different regions and soy products.
 - Created visualizations with Matplotlib and Tableau.
 
-
-![Deforestation risk trends 2004-2018](/images/Deforestation_risk_sm.jpg) 
-*Brazilian soymeal deforestation risk trends, 2004-2018*
+{% include figure image_path="/images/Deforestation_risk_sm.jpg" alt="trends" caption="Brazilian soymeal deforestation risk trends, 2004-2018." %}{: .tc}
 
 ![Global exports](/images/Export_map.jpg)
 *Brazil soymeal export destinations. Darker shade indicates higher transaction value in USD* 
