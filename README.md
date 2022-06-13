@@ -11,7 +11,9 @@ Part 1. [Exploring Soy Export Data: How much is porduced and where is it going?]
 - Created visualizations with Matplotlib and Tableau.
 
 ![Deforestation risk trends 2004-2018](/images/Deforestation_risk_sm.jpg)
+
 *Brazilian soymeal deforestation risk trends, 2004-2018*
+
 ![Global exports](/images/Export_map.jpg)
 *Brazilian soymeal export destinations. Darker shades indicate highest transaction value (FOB) in USD* 
 
