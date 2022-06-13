@@ -15,7 +15,8 @@ Part 1. [Exploring Soy Export Data: How much is porduced and where is it going?]
 *Brazilian soymeal deforestation risk trends, 2004-2018*
 
 ![Global exports](/images/Export_map.jpg)
-*Brazilian soymeal export destinations. Darker shades indicate highest transaction value (FOB) in USD* 
+
+*Brazilian soymeal export destinations. Darker shades indicate higher transaction value (FOB) in USD* 
 
 What the data showed: With very few exceptions, most countries buy soy from Brazil. After a soy moratorium agreement, some soy production moved to areas previously deforested for cattle ranching, but the largest proportion of soymeal transactions were carried out by producers or buyers that did not subscribe to no-deforestation commitments. To this day soy crops continue to play an active role driving deforestion in the Amazon. 
 
