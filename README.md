@@ -16,6 +16,7 @@ Part 1. [Exploring Export Data: How much soy is produced and where is it going?]
 
 
 
+
 ![Global exports](/images/Export_map.jpg)
 |:--:| 
 | *Brazilian soymeal export destinations. Darker shade indicates higher transaction value in USD* |
