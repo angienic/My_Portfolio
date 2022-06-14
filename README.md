@@ -20,16 +20,19 @@ This first portfolio piece is part of a project I worked on for a Data science p
 
 *Brazil soymeal export destinations. Darker shade indicates higher transaction value in USD*
 
-##### What the data showed:##### With very few exceptions, most countries buy soy from Brazil. After a soy moratorium agreement, some soy production moved to areas previously deforested for cattle ranching, but the largest proportion of soymeal transactions were carried out by producers or buyers that did not subscribe to no-deforestation commitments. Despite the shift from primary to secondary clearings, soy crops continue to drive deforestion. 
+##### What the data showed:##### 
+With very few exceptions, most countries buy soy from Brazil. After a soy moratorium agreement, some soy production moved to areas previously deforested for cattle ranching, but the largest proportion of soymeal transactions were carried out by producers or buyers that did not subscribe to no-deforestation commitments. Despite the shift from primary to secondary clearings, soy crops continue to drive deforestion. 
 
 #### 2. Modelling deforestation as a function of commodity prices
 
 - Built robust models by optimizing linear and random forest regressors using GridSearch CV.
 
-##### What the data showed:##### fluctuations in soymeal prices explained almost 20% of the variance in deforestation risk, illustrating the dynamic nature of incentives for deforestation despite international agreements and policy advances. 
+##### What the data showed:##### 
+fluctuations in soymeal prices explained almost 20% of the variance in deforestation risk, illustrating the dynamic nature of incentives for deforestation despite international agreements and policy advances. 
 
 #### 3. Forecasting deforestation rates
 
 - Used Facebook Prophet time series analysis to predict soy meal prices in the short term range.
 
-##### What the analysis shows:##### Based on the period studied, deforestation is forecasted to continue in the near future, partially in response to increasing soy prices. Time series predictions would benefit from a more accurate selection of lag-time.
+##### What the analysis revealed:##### 
+Based on the period studied, deforestation is forecasted to continue in the near future, partially in response to increasing soy prices. Time series predictions would benefit from a more accurate selection of lag-time.
