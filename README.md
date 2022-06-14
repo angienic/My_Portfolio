@@ -1,4 +1,4 @@
-# Project 1. Deforestation in supply chains
+# Project 1. Tracking deforestation in supply chains
 
 Tropical deforestation is one of the main challenges thwarting climate change and biodiversity conservation efforts worldwide. Thanks to the improved quality and resoultion of satellite imagery available, research organizations are better equipped to monitor land use changes and track their association with economic, political and social changes. Deforestation dynamics in the Brazilian Amazon are complex but offer a great oportunity to connect different types of data and predict local future deforestation rates that could help enforcement agencies anticipate and prioritize areas of action.  
 
