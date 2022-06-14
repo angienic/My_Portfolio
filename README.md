@@ -28,11 +28,11 @@ With very few exceptions, most countries buy soy from Brazil. After a soy morato
 - Built robust models by optimizing linear and random forest regressors using GridSearch CV.
 
 ##### What the data showed:
-fluctuations in soymeal prices explained almost 20% of the variance in deforestation risk, illustrating the dynamic nature of incentives for deforestation despite international agreements and policy advances. 
+Fluctuations in soymeal prices explained almost 20% of the variance in deforestation risk, illustrating the dynamic nature of incentives for deforestation despite international agreements and policy advances. 
 
 #### 3. Forecasting deforestation rates
 
 - Used Facebook Prophet time series analysis to predict soy meal prices in the short term range.
 
 ##### What the analysis revealed: 
-Based on the period studied, deforestation is forecasted to continue in the near future, partially in response to increasing soy prices. Time series predictions would benefit from a more accurate selection of lag-time.
+Based on the period I looked at, deforestation is forecasted to continue in the near future, partially in response to increasing soy prices. Time series predictions would benefit from a more accurate selection of lag-time.
