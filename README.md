@@ -22,7 +22,7 @@ This first portfolio piece is part of a project I worked on for a Data science p
 
 **What the data showed:** With very few exceptions, most countries buy soy from Brazil. After a soy moratorium agreement, some soy production moved to areas previously deforested for cattle ranching, but the largest proportion of soymeal transactions were carried out by producers or buyers that did not subscribe to no-deforestation commitments. Despite the shift from primary to secondary clearings, soy crops continue to drive deforestion. 
 
-![Animated plot](/images/index.html)
+{% include index.html %}
 
 #### 2. Modelling deforestation as a function of commodity prices
 
